@@ -8,7 +8,7 @@
 > dmr.25p10140@nitdgp.ac.in
 > ```
 
-[![Publication](https://img.shields.io/badge/Publication-Face%20Trasformer-red?style=flat&logo=googledocs&logoColor=red)](./Papers/A%20Comparative%20Analysis%20of%20Haar%20Cascade%20and%20Deep%20Neural%20Network-Based%20Models%20for%20Human%20Face%20Detection.pdf)
+[![Publication](https://img.shields.io/badge/Publication-Human%20Face%20Detection-red?style=flat&logo=googledocs&logoColor=red)](./Papers/A%20Comparative%20Analysis%20of%20Haar%20Cascade%20and%20Deep%20Neural%20Network-Based%20Models%20for%20Human%20Face%20Detection.pdf)
 
 ## Abstract
 
