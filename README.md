@@ -1,5 +1,15 @@
 # A Comparative Analysis of Haar Cascade and Deep Neural Network-Based Models for Human Face Detection
 
+> ```
+> Debargha Mitra Roy
+> Department of Computer Science and Engineering
+> National Institute of Technology, Durgapur
+> Durgapur, Pachim Bardhaman, West Bengal 713363
+> dmr.25p10140@nitdgp.ac.in
+> ```
+
+[![Publication](https://img.shields.io/badge/Publication-Face%20Trasformer-red?style=flat&logo=googledocs&logoColor=red)](./Papers/A%20Comparative%20Analysis%20of%20Haar%20Cascade%20and%20Deep%20Neural%20Network-Based%20Models%20for%20Human%20Face%20Detection.pdf)
+
 ## Abstract
 
 This paper presents a comparative analysis of two widely used approaches for human face detection: the traditional Haar Cascade classifier and a Deep Neural Network (DNN)-based model. The Haar Cascade method, based on handcrafted features and cascade classifiers, offers fast detection suitable for real-time applications but suffers from limitations in complex environments. In contrast, the DNN-based approach leverages deep learning to achieve higher accuracy and robustness under varying lighting conditions, poses, and occlusions.
