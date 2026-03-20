@@ -84,7 +84,7 @@ This paper presented a comparative study of Haar Cascade and DNN-based face dete
 
 Future work may include exploring advanced deep learning models such as YOLO or RetinaFace and optimizing performance using GPU acceleration.
 
-## References (IEEE Style)
+## References
 
 1. Monica Dhana Ranjini M, Paul Jeyaraj M, Senthil Kumar M, Arun Prasath T, and Prab hakar G. Haar Cascade Classifier-based Real- Time Face Recognition and Face Detection. In: _2023 4th International Conference on Electronics and Sustainable Communication Systems (ICESC)_. 2023:990–5. DOI: [10.1109/ICESC57686.2023.10192586](https://doi.org/10.1109/ICESC57686.2023.10192586).
 
